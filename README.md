@@ -17,8 +17,8 @@
 **Demo**
 1. Follow the agenda in the presentation
 2. During the demo show capabilities of DSX in the context of Telco Churn use case
-   * Start with the overview of use case and optionally the Telco Churn UI
-   * Log in a DSX Local and create a new project
+   * Start with the overview of the use case and optionally the Telco Churn UI
+   * Log in to DSX Local and create a new project
    * Show collaboration features for the project
    * Load data and explain what type of data sources are supported
    * Create a notebook from File
