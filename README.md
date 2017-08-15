@@ -11,7 +11,7 @@
 2. Import data
 3. Import notebook
 4. Follow instructions in the notebook to add project token
-5. Optional: deploy Telco Churn UI application: instructions in the Setup folder. Or you can use this deployed UI: https://predictcustomerchurnel.mybluemix.net/
+5. Optional: deploy Telco Churn UI application: instructions in the WebApp folder. Or you can use this deployed UI: https://predictcustomerchurnel.mybluemix.net/
 6. If you would like to show Model Management - create several deployments from this or different notebooks
 
 **Demo**
