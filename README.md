@@ -1,6 +1,6 @@
 # DSX Local Telco Churn demo
 
-## This repository contains the following assets for the Telco Churn demo in DSX Local
+** This repository contains the following assets for the Telco Churn demo in DSX Local **
 1. Presentation
 2. Notebook
 3. Data
