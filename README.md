@@ -13,9 +13,10 @@
 4. Follow instructions in the notebook to add project token
 5. Optional: deploy Telco Churn UI application: instructions in the WebApp folder. Or you can use this deployed UI: https://predictcustomerchurnel.mybluemix.net/
 6. If you would like to show Model Management - create several deployments from this or different notebooks
+7. Optionally, watch a [video](https://ibm.box.com/s/9u40d8ug8paajh35ars0vtvhj48964wb) of the presentation and demo
 
 **Demo**
-1. Follow the agenda in the presentation
+1. Follow the agenda in the presentation 
 2. During the demo show capabilities of DSX in the context of Telco Churn use case
    * Start with the overview of the use case and optionally the Telco Churn UI
    * Log in to DSX Local and create a new project
