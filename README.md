@@ -2,9 +2,9 @@
 
 **This repository contains the following assets for the Telco Churn demo in DSX Local**
 1. ![Presentation](Presentation)
-2. Notebook
-3. Data
-4. Instructions for creating a UI (requires a Bluemix account with access to Flask service)
+2. ![Notebook](Notebooks)
+3. ![Data](data)
+4. ![Instructions for creating a UI](WebApp) (requires a Bluemix account with access to Flask service)
 
 **Demo setup**
 1. Create a DSX project
