@@ -11,8 +11,11 @@ The objective of this demo asset is to demonstrate building a predictive model w
 4. ![Instructions for creating a UI](WebApp) (requires a Bluemix account with access to Flask service)
 
 **Demo setup**
-1. Create a DSX project and name it *DSX Local Lab - Telco Churn*
-2. Import data
+1. Create a DSX project and name it "*DSX Local Lab - Telco Churn*"
+2. Import ![Data](data) <br/>
+Tip: First download the csv files before importing them into your project.  When downloading the csv files, make sure click the **Raw** button to display the data in its raw format, right-click and select "Save Page As".
+![Download CSV files](static/img/download_csv.png?raw=true)
+
 3. Import notebook
 4. Follow instructions in the notebook to add project token
 5. Optional: deploy Telco Churn UI application: instructions in the WebApp folder. Or you can use this deployed UI: https://predictcustomerchurnel.mybluemix.net/
