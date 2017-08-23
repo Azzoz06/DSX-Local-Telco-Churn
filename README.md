@@ -1,5 +1,8 @@
 # DSX Local Telco Churn demo
 
+**Objective**
+The objective of this demo asset is to demonstrate building a predictive model with Spark machine learning API (SparkML) to predict customer churn, and deploy it for scoring in Machine Learning (ML).
+
 **This repository contains the following assets for the Telco Churn demo in DSX Local**
 1. ![Presentation](Presentation)
 2. ![Notebook](Notebooks)
