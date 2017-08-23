@@ -7,7 +7,7 @@
 4. ![Instructions for creating a UI](WebApp) (requires a Bluemix account with access to Flask service)
 
 **Demo setup**
-1. Create a DSX project
+1. Create a DSX project and name it *DSX Local Lab - Telco Churn*
 2. Import data
 3. Import notebook
 4. Follow instructions in the notebook to add project token
