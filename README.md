@@ -36,4 +36,15 @@ Within the "DSX Local Lab - Telco Churn" project, add a Notebook and choose to i
    * Explain the deployment process - via UI and API
    * Test the model via UI or API and explian how the demo UI makes the same call
 3. Wrap up with architecture discussion 
- 
+
+**Converting the notebook to use HDFS data sources**
+1. Load .csv files into HDFS
+2. Make a copy of the notebook or use the sample notebook in the Notebooks folder
+3. Remove Access Token (if you added it in the other lab)
+4. Replace Object Storage access code with HDFS access code <br>
+**Replace**<br>
+![LoadData_OS](static/img/LoadData_OS.JPG?raw=true) <br>
+**with**<br>
+![LoadData_HDFS](static/img/LoadData_HDFS.JPG?raw=true) <br>
+
+
