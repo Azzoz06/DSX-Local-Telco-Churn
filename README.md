@@ -41,6 +41,6 @@ Within the "DSX Local Lab - Telco Churn" project, add a Notebook and choose to i
 1. Load .csv files into HDFS
 2. Make a copy of the notebook or use the [sample notebook](https://github.com/elenalowery/DSX-Local-Telco-Churn/blob/master/Notebooks/TelcoChurn_HDP.ipynb) in the Notebooks folder
 3. Replace Object Storage access code with HDFS access code <br>
-![LoadData_HDFS](static/img/LoadData_HDFS.JPG?raw=true) <br>
+![LoadData_HDFS](static/img/LoadData_HDFS1.JPG?raw=true) <br>
 
 
