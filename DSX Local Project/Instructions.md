@@ -11,4 +11,4 @@ Each .zip file contains DSX Local sample notebooks and data.
 4. Browse to the .zip file
 5. After the project has been imported, open the notebook and run through it. 
 
-![ProjectFromFile](static/imgs/CreateProjectFromFile.JPG?raw=true)
+![ProjectFromFile](../static/imgs/CreateProjectFromFile.JPG?raw=true)
